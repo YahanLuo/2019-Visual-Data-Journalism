@@ -3,18 +3,12 @@
 
 ### 数据收集记录
 
-![large image](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Dear-we-data%2001.jpg)
-
 1. 从自己第一条朋友圈开始，记录之后每一条和恋爱感情相关的朋友圈。记录内容包括朋友圈的月份、时间、情绪、以及附上的图片类型等。
 2. 以一个整圆为十二个月，以半径为一天24小时，建立一个特殊的坐标系。
 3. 将朋友圈以点的形式标注在坐标系中，颜色类别代表情绪，颜色深浅代表年份。
 4. 同一朋友圈中不同的图片类型用不同的符号代替。
 
-![large image](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Dear-we-data%2002.jpg)
-
 ### 出现的问题
-
-![image](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/caogao%2005.jpg)
 
 1. 最开始的时候，我是以一段段短圆弧来表示一个朋友圈的。但很快我就发现这样表示会导致受众认为这是一个在时间上的持续性事件。所以我毅然抛弃了用圆弧的想法。
 2. 然后，我企图使用一条条紧密排列的直线来表示，但这样一来它还是一个时间上的持续性事件，所以这个方法也被我否决了。
