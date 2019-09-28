@@ -3,7 +3,7 @@
 
 ### 数据收集记录
 
-![image](Dear-we-data 01.jpg)
+![image](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Dear-we-data%2001.jpg)
 
 1. 从自己第一条朋友圈开始，记录之后每一条和恋爱感情相关的朋友圈。记录内容包括朋友圈的月份、时间、情绪、以及附上的图片类型等。
 2. 以一个整圆为十二个月，以半径为一天24小时，建立一个特殊的坐标系。
