@@ -3,10 +3,10 @@
 ### 1.地方公共数据开放平台
 
 **北京市**
-[北京市政务数据资源网] (http://www.bjdata.gov.cn/jkfb/index.html)
+[北京市政务数据资源网](http://www.bjdata.gov.cn/jkfb/index.html)
 
 **上海市**
-[上海市政府数据服务网] (http://www.data.sh.gov.cn/home!toHomePage.action)
+[上海市政府数据服务网](http://www.data.sh.gov.cn/home!toHomePage.action)
 
 **天津市** 
 天津市信息资源统一开放平台 
