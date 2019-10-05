@@ -188,10 +188,12 @@ http://data.stats.gov.cn/
 
 ## Part 2：国内公共数据开放条例及法规
 
-2012年：《“十二五”国家政务信息化工程建设规划》
+2012年：
+- 《“十二五”国家政务信息化工程建设规划》
 https://baike.baidu.com/item/“十二五”国家政务信息化工程建设规划
 
-2015年：《促进大数据发展行动纲要》
+2015年：
+- 《促进大数据发展行动纲要》
 https://baike.baidu.com/item/促进大数据发展行动纲要
 
 2016年：
@@ -205,15 +207,15 @@ https://baike.baidu.com/item/关于全面推进政务公开工作的意见
 https://baike.baidu.com/item/关于推进公共信息资源开放的若干意见
 - 《上海市政务数据资源共享和开放2017年度工作计划》
 http://www.echinagov.com/policy/220534.htm
--《贵阳市政府数据共享开放条例》
+- 《贵阳市政府数据共享开放条例》
 https://baike.baidu.com/item/贵阳市政府数据共享开放条例/22169058?fr=aladdin
 
 2018年：
-《上海市公共数据资源开放 2018 年度工作计划》
+- 《上海市公共数据资源开放 2018 年度工作计划》
 http://www.jiading.gov.cn/keji/xxh/zczn/content_509049
 
 2019年：
-《上海市公共数据开放暂行办法》
+- 《上海市公共数据开放暂行办法》
 https://baike.baidu.com/item/上海市公共数据开放暂行办法/23750083?fr=aladdin
 
 ----
