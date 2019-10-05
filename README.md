@@ -205,16 +205,14 @@ https://baike.baidu.com/item/关于全面推进政务公开工作的意见
 https://baike.baidu.com/item/关于推进公共信息资源开放的若干意见
 - 《上海市政务数据资源共享和开放2017年度工作计划》
 http://www.echinagov.com/policy/220534.htm
+-《贵阳市政府数据共享开放条例》
+https://baike.baidu.com/item/贵阳市政府数据共享开放条例/22169058?fr=aladdin
 
 2018年：
 《上海市公共数据资源开放 2018 年度工作计划》
 http://www.jiading.gov.cn/keji/xxh/zczn/content_509049
 
-
-
-《贵阳市政府数据共享开放条例》
-https://baike.baidu.com/item/贵阳市政府数据共享开放条例/22169058?fr=aladdin
-
+2019年：
 《上海市公共数据开放暂行办法》
 https://baike.baidu.com/item/上海市公共数据开放暂行办法/23750083?fr=aladdin
 
