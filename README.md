@@ -15,9 +15,9 @@ http://www.data.sh.gov.cn/home!toHomePage.action
 https://data.tj.gov.cn/
 
 **福建省** 
-福建省公共信息资源统一开放平台 
+- 福建省公共信息资源统一开放平台 
 https://data.fujian.gov.cn/odweb/
-厦门市大数据开放平台 
+- 厦门市大数据开放平台 
 http://data.xm.gov.cn/
 
 **四川省**
@@ -31,37 +31,37 @@ http://www.yaan.gov.cn/shuju.html
 http://data.cngy.gov.cn/open/index.html
 
 **广东省** 
-开放广东 
+- 开放广东 
 http://gddata.gd.gov.cn/
-广东省金融数据开放平台 
+- 广东省金融数据开放平台 
 http://210.76.74.192/
-佛山市政府数据开放平台 
+- 佛山市政府数据开放平台 
 http://www.foshan-data.cn/
-深圳市政府数据开放平台 
+- 深圳市政府数据开放平台 
 http://opendata.sz.gov.cn/
-广州市政府数据统一开放平台 
+- 广州市政府数据统一开放平台 
 http://data.gz.gov.cn/
-数据东莞 
+- 数据东莞 
 http://dataopen.dg.gov.cn/dataopen/
-惠州市政府数据开放平台 
+- 惠州市政府数据开放平台 
 http://data.huizhou.gov.cn/
-珠海市民生数据开放平台 
+- 珠海市民生数据开放平台 
 http://data.zhuhai.gov.cn/
-广东省政府数据统一开放平台-潮州市 
+- 广东省政府数据统一开放平台-潮州市 
 http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/344.html
-广东省政府数据统一开放平台-河源市 
+- 广东省政府数据统一开放平台-河源市 
 http://gddata.gd.gov.cn/index.php/data/ls/Type/0/v/339.html
-江门市数据开放平台 
+- 江门市数据开放平台 
 http://data.jiangmen.gov.cn/
-中山市政府数据统一开放平台 
+- 中山市政府数据统一开放平台 
 http://zsdata.zs.gov.cn/web/index
-肇庆市人民政府数据开放平台 
+- 肇庆市人民政府数据开放平台 
 http://www.zhaoqing.gov.cn/sjkf/
 
 **贵州省** 
 贵州省政府数据开放平台
 http://data.guizhou.gov.cn/
-下有九个子平台通道
+（下有九个子平台通道，分别连接到地方上的数据开放平台）
 
 **海南省** 
 海南省政府数据统一开放平台 
@@ -76,11 +76,11 @@ http://data.hnzwfw.gov.cn/odweb/
 http://data.jiangxi.gov.cn/
 
 **山东省** 
-山东公共数据开放网 
+- 山东公共数据开放网 
 http://data.sd.gov.cn/
-济南市公共数据开放网 
+- 济南市公共数据开放网 
 http://www.jndata.gov.cn/
-青岛公共数据开放网 
+- 青岛公共数据开放网 
 http://data.qingdao.gov.cn/宁夏回族自治区 
 
 **陕西省**
@@ -92,17 +92,17 @@ http://www.sndata.gov.cn/
 http://data.harbin.gov.cn/
 
 **浙江省** 
-浙江政务服务网“数据开放”专题网站 
+- 浙江政务服务网“数据开放”专题网站 
 http://data.zjzwfw.gov.cn/ 
-宁波市政府数据服务网 
+- 宁波市政府数据服务网 
 http://www.datanb.gov.cn/nbdatafore/web/indexpage.action
 
 **安徽省** 
-合肥市政府数据开放平台 
+- 合肥市政府数据开放平台 
 http://61.133.142.137
-蚌埠市信息资源开放平台 
+- 蚌埠市信息资源开放平台 
 http://data.bengbu.gov.cn/
-黄山市人民政府数据开放栏目 
+- 黄山市人民政府数据开放栏目 
 http://www.huangshan.gov.cn/DataDevelopment/showTopicContentList/8/page_1.html
 
 **湖北省** 
@@ -114,11 +114,11 @@ http://www.wuhandata.gov.cn/whData/
 http://www.changsha.gov.cn/data/
 
 **江苏省** 
-苏州市政府数据开放平台 
+- 苏州市政府数据开放平台 
 http://www.suzhou.gov.cn/dataOpenWeb/data
-常州市政府数据开放平台 
+- 常州市政府数据开放平台 
 http://opendata.changzhou.gov.cn/
-连云港市公共数据开放网
+- 连云港市公共数据开放网
 http://www.lyg.gov.cn/data/
 
 **黑龙江省** 
@@ -130,11 +130,11 @@ http://data.harbin.gov.cn/
 http://data.xinjiang.gov.cn/index.html
 
 **宁夏回族自治区**
-宁夏回族自治区数据开放平台 
+- 宁夏回族自治区数据开放平台 
 http://ningxiadata.gov.cn/odweb/index.htm
-石嘴山政府数据开放平台 
+- 石嘴山政府数据开放平台 
 http://szssjkf.nxszs.gov.cn/
-银川市城市数据开放平台 
+- 银川市城市数据开放平台 
 http://data.yinchuan.gov.cn/
 
 
@@ -176,10 +176,13 @@ http://www.cqdata.gov.cn/
 ### 2.全国公共数据开放平台
 地理国情监测云平台
 http://www.dsac.cn/
+
 中国气象开放服务平台
 http://openweather.weather.com.cn/
+
 中国专利数据
 http://patdata.sipo.gov.cn/
+
 国家数据
 http://data.stats.gov.cn/
 
