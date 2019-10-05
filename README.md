@@ -21,13 +21,13 @@ https://data.fujian.gov.cn/odweb/
 http://data.xm.gov.cn/
 
 **四川省**
-成都市公共数据开放平台 
+- 成都市公共数据开放平台 
 http://www.cddata.gov.cn/
-数据开放--四川省人民政府网站 
+- 数据开放--四川省人民政府网站 
 http://www.sc.gov.cn/10462/13797/13873/
-雅安市人民政府数据开放栏目 
+- 雅安市人民政府数据开放栏目 
 http://www.yaan.gov.cn/shuju.html
-广元公共数据开放网
+- 广元公共数据开放网
 http://data.cngy.gov.cn/open/index.html
 
 **广东省** 
