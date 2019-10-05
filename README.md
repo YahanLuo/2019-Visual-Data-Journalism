@@ -64,7 +64,7 @@
 **山东省** 
 - [山东公共数据开放网](http://data.sd.gov.cn/)
 - [济南市公共数据开放网](http://www.jndata.gov.cn/)
-- [青岛公共数据开放网](http://data.qingdao.gov.cn/)
+- [青岛市公共数据开放网](http://data.qingdao.gov.cn/)
 - [滨州市公共数据开放网](http://bzdata.sd.gov.cn)
 - [德州市公共数据开放网](http://dzdata.sd.gov.cn)
 - [荷泽市公共数据开放网](http://hzdata.sd.gov.cn)
@@ -128,7 +128,7 @@
 - [银川市城市数据开放平台](http://data.yinchuan.gov.cn/)
 
 **内蒙古自治区**
--[乌海市数据开放平台](http://whdata.wuhai.gov.cn/odweb/index.htm)
+- [乌海市数据开放平台](http://whdata.wuhai.gov.cn/odweb/index.htm)
 
 **以下是一些没有数据开放平台的省的政府统计数据网站**
 
