@@ -144,13 +144,18 @@
 - [重庆数据](http://www.cqdata.gov.cn/)
 
 ### 2.全国公共数据开放平台
+
 - [地理国情监测云平台](http://www.dsac.cn/)
 - [中国气象开放服务平台](http://openweather.weather.com.cn/)
 - [中国专利数据](http://patdata.sipo.gov.cn/)
 - [国家数据](http://data.stats.gov.cn/)
 
+## Part 2：国外公共数据开放平台
 
-## Part 2：国内公共数据开放条例及法规
+我认为这个网站整理得非常详细,在此不多做赘述。
+**[点击这里](http://www.tanmer.com/blog/537)**
+
+## Part 3：国内公共数据开放条例及法规
 
 2012年：
 - [《“十二五”国家政务信息化工程建设规划》](https://baike.baidu.com/item/“十二五”国家政务信息化工程建设规划)
@@ -173,13 +178,11 @@
 2019年：
 - [《上海市公共数据开放暂行办法》](https://baike.baidu.com/item/上海市公共数据开放暂行办法/23750083?fr=aladdin)
 
-## Part 3：国内公共数据开放条例及法规
 
-我认为这个网站整理得非常详细,在此便不多做赘述。
-[点击这里](http://www.tanmer.com/blog/537)
-
->Reference:
+### >Reference:
 [【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
+[最全的中国开放数据(open data)及政府数据开放平台汇总](http://www.tanmer.com/blog/451)
+[中国地方政府数据开放报告]()
 
 
 ----
