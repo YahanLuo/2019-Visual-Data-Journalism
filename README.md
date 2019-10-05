@@ -1,7 +1,7 @@
 # Yahan Luo 1009 Assignment
 ## Part 1：国内公共数据开放平台
 ### 1.地方公共数据开放平台
-#### 直辖市及省级
+*直辖市及省级*
 **北京市**
 北京市政务数据资源网 
 http://www.bjdata.gov.cn/jkfb/index.html
@@ -172,7 +172,9 @@ http://tjj.qinghai.gov.cn/
 重庆数据
 http://www.cqdata.gov.cn/
 
-#### 地级
+*地级*
+![dijishishujugongkaipingtai](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/dijishishujugongkai1.png)
+![dijishishujugongkaipingtai](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/dijishishujugongkai2.png)
 
 ### 2.全国公共数据开放平台
 地理国情监测云平台
