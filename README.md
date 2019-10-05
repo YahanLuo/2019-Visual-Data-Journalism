@@ -1,7 +1,7 @@
 # Yahan Luo 1009 Assignment
 ## Part 1：国内公共数据开放平台
 ### 1.地方公共数据开放平台
-*直辖市及省级*
+
 **北京市**
 北京市政务数据资源网 
 http://www.bjdata.gov.cn/jkfb/index.html
@@ -172,9 +172,6 @@ http://tjj.qinghai.gov.cn/
 重庆数据
 http://www.cqdata.gov.cn/
 
-*地级*
-![dijishishujugongkaipingtai](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/dijishishujugongkai1.png)
-![dijishishujugongkaipingtai](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/dijishishujugongkai2.png)
 
 ### 2.全国公共数据开放平台
 地理国情监测云平台
@@ -191,6 +188,35 @@ http://data.stats.gov.cn/
 
 ## Part 2：国内公共数据开放条例及法规
 
+2012年：《“十二五”国家政务信息化工程建设规划》
+https://baike.baidu.com/item/“十二五”国家政务信息化工程建设规划
+
+2015年：《促进大数据发展行动纲要》
+https://baike.baidu.com/item/促进大数据发展行动纲要
+
+2016年：
+- 《国家信息化发展战略纲要》
+https://baike.baidu.com/item/国家信息化发展战略纲要
+- 《关于全面推进政务公开工作的意见》
+https://baike.baidu.com/item/关于全面推进政务公开工作的意见
+
+2017年：
+- 《关于推进公共信息资源开放的若干意见》
+https://baike.baidu.com/item/关于推进公共信息资源开放的若干意见
+- 《上海市政务数据资源共享和开放2017年度工作计划》
+http://www.echinagov.com/policy/220534.htm
+
+2018年：
+《上海市公共数据资源开放 2018 年度工作计划》
+http://www.jiading.gov.cn/keji/xxh/zczn/content_509049
+
+
+
+《贵阳市政府数据共享开放条例》
+https://baike.baidu.com/item/贵阳市政府数据共享开放条例/22169058?fr=aladdin
+
+《上海市公共数据开放暂行办法》
+https://baike.baidu.com/item/上海市公共数据开放暂行办法/23750083?fr=aladdin
 
 ----
 
