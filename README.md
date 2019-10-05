@@ -173,6 +173,15 @@
 2019年：
 - [《上海市公共数据开放暂行办法》](https://baike.baidu.com/item/上海市公共数据开放暂行办法/23750083?fr=aladdin)
 
+## Part 3：国内公共数据开放条例及法规
+
+我认为这个网站整理得非常详细,在此便不多做赘述。
+[点击这里](http://www.tanmer.com/blog/537)
+
+>Reference:
+[【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
+
+
 ----
 
 # Yahan Luo 0930 Assignment
