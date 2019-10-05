@@ -1,12 +1,15 @@
 # Yahan Luo 1009 Assignment
 ## Part 1：国内公共数据开放平台
 ### 1.地方公共数据开放平台
+
 **北京市**
 北京市政务数据资源网 
 http://www.bjdata.gov.cn/jkfb/index.html
+
 **上海市**
 上海市政府数据服务网 
 http://www.data.sh.gov.cn/home!toHomePage.action
+
 **天津市** 
 天津市信息资源统一开放平台 
 https://data.tj.gov.cn/
@@ -139,24 +142,34 @@ http://data.yinchuan.gov.cn/
 
 云南省统计局
 http://www.stats.yn.gov.cn/tjsj/
+
 内蒙古自治区政府门户网站
 http://www.nmg.gov.cn/col/col1586/index.html
+
 广西壮族自治区政府数据
 http://www.gxzf.gov.cn/gxsj.shtml
+
 西藏自治区人民政府政务公开
 http://www.xizang.gov.cn/zwgk/
+
 辽宁省政务服务网
 https://www.lnzwfw.gov.cn/
+
 吉林市人民政府数据
 http://www.jl.gov.cn/sj/
+
 河北省人民政府数据
 http://info.hebei.gov.cn/hbszfxxgk/6806024/6810698/index.html
+
 山西省人民政府数据
 http://www.shanxi.gov.cn/sj/
+
 甘肃省统计局
 http://tjj.gansu.gov.cn/
+
 青海省统计局
 http://tjj.qinghai.gov.cn/
+
 重庆数据
 http://www.cqdata.gov.cn/
 
