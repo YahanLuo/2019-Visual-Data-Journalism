@@ -182,7 +182,10 @@
 ### >Reference:
 [【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
 [最全的中国开放数据(open data)及政府数据开放平台汇总](http://www.tanmer.com/blog/451)
-[中国地方政府数据开放报告]()
+[2019中国地方政府数据开放报告](http://www.databanker.cn/research/254583.html)
+[肖敏. 我国政府数据开放平台评价指标体系构建及实证研究.郑州航空工业管理学院,2019.](https://kdoc-cnki-net.w.cuc.edu.cn/kdoc/download.aspx?filename=iFVcIlFZCB1Z0I1TjZnW610ShBDaBFXQZVGTqZ1SFlzVYhGRsRVV5cTZoxWNXJER1gFNL1EW3QzQ0pmZ6JFSplVeGhVT==gR08WYwtiaJp0c3s0LysWOD10YLZlU3FXTuNUbZtGejZmMxc3b3kzZEFlYTR0T0JmQWNlNaZ2dW5WV3RUYGx0K18UU&dflag=catalog&tablename=CMFD201902&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBpZCI6IjI5MjU4IiwidGltZXN0YW1wIjoxNTcwMjg4NDYzLCJub25jZSI6IkZFMk9XM2pkd2EifQ.VzpatSFq3z-AQkAvwK_ZGlCXcP9ic2O_ND8idQ25iZc)
+[兰霖. 我国政府数据开放：现状、问题及完善策略研究.西北大学,2018.](https://kdoc-cnki-net.w.cuc.edu.cn/kdoc/download.aspx?filename=JJUO6RFOMBnWPFFRHB3T4hnY51kWWhTOLB1QiFnYXBlctNTRvFFWyV2VSZFSml1Y4tCSC92QLZmbTR0Q4tib5YTZBV3Qw0GTKtGNlR3LZhVSjNkQzhDNnF0ZhlGZLd2ZFt0M4AHdw0kR2o2dPN0V650c0czbv9Ud&dflag=catalog&tablename=CMFD201901&uid=WEEvREcwSlJHSldRa1FhcTdWa2FjR2REY0svdlQrajVydmM4U1Y5b1k0UT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBpZCI6IjI5MjU4IiwidGltZXN0YW1wIjoxNTcwMjc4MDMzLCJub25jZSI6IlZBZk81TkJoRjMifQ.ywWhTkKzaYlM93hBfVN5JnHD3UHl_Sm3hjaUv8JP9wM)
+
 
 
 ----
