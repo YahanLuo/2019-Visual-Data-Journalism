@@ -1,7 +1,7 @@
 # Yahan Luo 1009 Assignment
 ## Part 1：国内公共数据开放平台
 ### 1.地方公共数据开放平台
-
+#### 直辖市及省级
 **北京市**
 北京市政务数据资源网 
 http://www.bjdata.gov.cn/jkfb/index.html
@@ -81,7 +81,7 @@ http://data.sd.gov.cn/
 - 济南市公共数据开放网 
 http://www.jndata.gov.cn/
 - 青岛公共数据开放网 
-http://data.qingdao.gov.cn/宁夏回族自治区 
+http://data.qingdao.gov.cn/ 
 
 **陕西省**
 陕西省公共数据开放平台 
@@ -137,7 +137,6 @@ http://szssjkf.nxszs.gov.cn/
 - 银川市城市数据开放平台 
 http://data.yinchuan.gov.cn/
 
-
 **没有数据开放平台的省份的政府数据网站**
 
 云南省统计局
@@ -173,6 +172,8 @@ http://tjj.qinghai.gov.cn/
 重庆数据
 http://www.cqdata.gov.cn/
 
+#### 地级
+
 ### 2.全国公共数据开放平台
 地理国情监测云平台
 http://www.dsac.cn/
@@ -186,6 +187,7 @@ http://patdata.sipo.gov.cn/
 国家数据
 http://data.stats.gov.cn/
 
+## Part 2：国内公共数据开放条例及法规
 
 
 ----
