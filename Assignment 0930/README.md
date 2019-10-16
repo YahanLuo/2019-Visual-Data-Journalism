@@ -17,15 +17,15 @@
 2. 然后，我企图使用一条条紧密排列的直线来表示，但这样一来它还是一个时间上的持续性事件，所以这个方法也被我否决了。
 3. 最后我只能使用圆点。但是圆点真的不好看。
 4. 标注使用图片类型的时候也出了问题，因为我的圆点太小，无法把图片类型直接标注在圆点上面，我只好把图片类型像标注向量一样画在旁边。这些向量的方向、长度我都没有定义，要是受众问我为什么这个是往上而另一个是往下的，我该如何解释？
-![data-we3](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2005.jpg)
+![data-we3](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2003.jpg)
 
 ### 感想
 
 1. 数据收集的工作没有我想象的复杂（可能是因为我的样本量也不大的缘故，就83个。）
 2. 想要平衡信息量、精确度、美观和可读性这四个要素实在是太难了。我的图在信息量上也许比deardata要大一些点，每个样本反映了四到五个值。但实在是太丑了，太丑了。在精确度上，我总是奢望手绘中的每一个细节都能准确代表数据的一个值，但实际上是不可能的。在可读性上我觉得也是一个大问题，比如deardata里面很多的图，我不看解释都猜不到她在画什么。
 3. 这份工作的重点到底是在数据还是在画图？这是个说明问题的图表还是个纯粹的艺术品？也许怎样看待它决定了我们侧重什么？
-![data-we4](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2003.jpg)
-![data-we5](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2004.jpg)
+![data-we4](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2004.jpg)
+![data-we5](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%200930/Dear-we-data%2005.jpg)
 </details>
 
 <details>
