@@ -47,6 +47,20 @@
    * 然而！最喜欢的还是这张！房间类别+所在位置+价格（颜色深浅）:
    ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/location%20type%202.png)
    
+   ### 房间名字
+   * 最后皮了一下，做一个房间名字的词云：
+   ![](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/room%20name.png)
+
+</details>
+
+<details>
+<summary>Part 3：我的感想</summary>
+  1. 最直观的数据表达方法可能会比较吸引人，但未必是最好的表达方法。就像不同地区的房间价格，是否用一个盒须图能更好表达呢？（我没做盒须图是因为没研究懂怎么做）
+  2. 做图的时候不能想当然，先研究数据的特点，再结合特点去想呈现方式。
+  3. 线上工具虽然简易快捷，但终究还是有不小的限制性，尤其是在美工方面。
+  4. 不要以为自己的电脑性能好就不保存，否则，呵呵。
+</details>
+
 
     
     
