@@ -42,6 +42,12 @@
     ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/room%20type.png)
    *  这是加入neighborhood-group变量之后的bar图：
    ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/room%20type%20location%20bar.png)
+   * 由于非常非常非常喜欢桑基图，所以这次也强行做了一张：
+   ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/location%20type.png)
+   * 然而！最喜欢的还是这张！房间类别+所在位置+价格（颜色深浅）:
+   ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/location%20type%202.png)
+   
+
     
     
  
