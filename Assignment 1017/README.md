@@ -13,14 +13,28 @@
 
 <details>
  <summary>Part2：我所使用的工具以及呈现</summary>
+
 * 我选择的呈现工具有Tableau，数可视，镝数，BDP。（我原本也想用Echarts来着，但是它复杂的编辑过程吓退了我。）
+
 * 下面我将从不同类别数据的呈现的角度，整理我的呈现内容以及感想：
   
-  ### Airbnb 所在位置
-  ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/AirbnbLocation.png)
+  ### 所在位置
   * 这是纽约Airbnb所在的区域位置条形图；
-  ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYAblocation.png)
+  * ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/AirbnbLocation.png)
   * 我尝试在地图上用直观的方式标注Airbnb的位置，企图看出是否存在中心点。然而，我低估了五万个数据的力量————整个曼哈顿被密密麻麻地覆盖着，根本看不出任何的集中区域；
-  ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYab%20neighborhood.png)
+  * ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYAblocation.png)
   * 我没死心，又企图在地图上表明街区。然而，我忘记了街区本来就是一个地理元素，在地图上标注出来没有任何的作用。只得到一张花花绿绿的纽约街区地图。
+  * ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYab%20neighborhood.png)
+  
+   ### 价格
+   * 价格是呈现的重头戏，我决心用好几种方法呈现：地图散点图，热力图，地图条形图。
+   * 首先，我在Tableau中做出了第一份散点图。然而效果很不理想。本来的颜色是从黄色到红色渐变，但地图上大部分点都是黄色的且分布过于密集，几乎看不出价格的差别。（就跟上面那张黄色点点差不多）我仔细回想，发现纽约Airbnb的价格区间比较特殊————
+   * ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/price%20range.png)
+   * 如果将红色设置为最高价格————也就是一万美元；那么大部分Airbnb都呈现黄色的“低价”是肯定的。于是，我做出了一些调整：把红色设置为五百美元（再往上就是我住不起的地方），把点的半径调小，不透明度降低，最后得到如下的价格散点图：
+   * ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/price%201.png)
+   * 下面是用BDP生成的价格热力图。
+   * ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/price%20heat.png)
+   * 就在我研究热力图时，BDP同一类别下的另一个图标吸引了我————地图条形图。说实话我觉得它长得很丑且非常诡异，但是我发现这个图表竟然可以比较友好地展现之前被我牺牲掉的极高值：
+   * ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/price%20bar.png)
+ 
   
