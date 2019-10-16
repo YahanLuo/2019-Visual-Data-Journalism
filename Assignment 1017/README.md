@@ -17,4 +17,10 @@
 * 下面我将从不同类别数据的呈现的角度，整理我的呈现内容以及感想：
   
   ### Airbnb 所在位置
+  ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/AirbnbLocation.png)
+  * 这是纽约Airbnb所在的区域位置条形图；
+  ![ny ab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYAblocation.png)
+  * 我尝试在地图上用直观的方式标注Airbnb的位置，企图看出是否存在中心点。然而，我低估了五万个数据的力量————整个曼哈顿被密密麻麻地覆盖着，根本看不出任何的集中区域；
+  ![nyab](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201017/NYab%20neighborhood.png)
+  * 我没死心，又企图在地图上表明街区。然而，我忘记了街区本来就是一个地理元素，在地图上标注出来没有任何的作用。只得到一张花花绿绿的纽约街区地图。
   
