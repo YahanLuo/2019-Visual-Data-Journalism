@@ -36,7 +36,6 @@
 6. [NYC（New York City）：Recycling Diversion and Capture Rates](https://www1.nyc.gov/assets/dsny/site/services/recycling)
 7. [CRI（Container Recycling Institute）](http://www.container-recycling.org/)
 
-
 ### 参考文献
 1. [《上观日报》:每卖一吨就亏一两百元，玻璃静脉产业濒临瘫痪？如何自救](https://www.jfdaily.com/news/detail?id=73929)
 2. [《上观日报》:“城市矿产”——废玻璃的回收和利用](https://www.jfdaily.com/news/detail?id=112262)
@@ -44,9 +43,30 @@
 4. [北极星环保网](http://huanbao.bjx.com.cn/)
 5. [北极星固废网](gfcl.bjx.com.cn/)
 6. [Glass-International](https://www.glass-international.com/)
-7. [中国轻工业网:数说轻工](http://www.clii.com.cn/ssqg/index_2.html)
+7. [中国轻工业网: 数说轻工](http://www.clii.com.cn/ssqg/index_2.html)
 8. [前瞻数据库](https://d.qianzhan.com/xdata/xsearch?q=%e7%8e%bb%e7%92%83&cls=02)
 
+### 数据收集过程
+1. 先是在北极星环保网上注意到了新发布的《中国再生资源行业发展报告（2019）》，于是顺藤摸瓜找到了从2014年到2019年每一年的《中国再生资源行业发展报告》
 
 
+
+### 数据分析和呈现的步骤
+
+
+</details>
+
+<details>
+ <summary>Part3：选择报道角度的思考过程</summary>
+  
+  ### 究竟是数据新闻还是行业报告？————记一次极度折磨人的选题过程
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
