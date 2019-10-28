@@ -6,7 +6,7 @@
 
 2019年10月21日，《中国再生资源行业发展报告（2019）》在商务部流通业发展司网站正式发布。该报告显示，2018 年我国废玻璃回收总量为1040吨，同比下降2.8%；同比增长率在十大再生资源类别中排名倒数第二。其中，我国日用玻璃及制品废玻璃回收利用量为300 万吨，占废玻璃总回收利用量的 28.8%，同比下降达2.5%。 
 
-![tu1](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201029/pic1%20final.png) 
+![1](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201029/pic1%20final.png)
 
 玻璃是一种能百分之百回收的再生物质。据GPI（Glass Package Institute）介绍，回收后的废玻璃可以代替生产同样重量新玻璃中95%的原料，损耗比例仅占5%。即便是耗能较多的“回炉再造”方式，每回收1吨容器玻璃也可节约800公斤石英砂，130公斤烧碱，130公斤石灰石和140升重油；每回收6吨的容器玻璃，就可以减少1吨二氧化碳。
 
