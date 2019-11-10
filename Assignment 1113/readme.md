@@ -1,6 +1,6 @@
 # Yahan Luo 1113 Assignment
 <details>
-<summary> Part 1：图文呈现 </summary>
+<summary>Part 1：图文呈现 </summary>
 
 
 
