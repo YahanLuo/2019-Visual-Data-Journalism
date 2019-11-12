@@ -20,7 +20,13 @@
 **其次，重犯率和不同性质的收容所相关。**在美国，这一规律显得更为明晰。NCJRS（National Criminal Justice Reference Service）发布的一份公开报告中显示，他们调查了佛罗里达州16779 名曾接受过2年不同程度“青年收容计划”的犯罪未成年人，并记录其获释后一年内因再次犯罪被抓的频率。其中，接受非强制收容计划（Non-residential）的犯罪未成年的再犯率远远低于他人。
 
 <p align="center">
-<iframe src="//datawrapper.dwcdn.net/SJEO8/0/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="600" height="434"></iframe>
+ <iframe 
+           src="//datawrapper.dwcdn.net/67k77/0/" 
+           frameborder="0" 
+           allowtransparency="true" 
+           allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen
+           width="600" 
+           height="434"> </iframe>
 </p>
 
 就算是同一级别的收容制度，重犯率也和收容时间长短相关。上述报告显示，同样是最高级别的强制收容计划，重犯率随着收容时间的增加而增加。
