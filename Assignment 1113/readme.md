@@ -19,13 +19,13 @@
 **其次，重犯率和不同性质的收容所相关。** 美国NCJRS（National Criminal Justice Reference Service）发布的一份公开报告中显示，他们调查了佛罗里达州16779 名曾接受过2年不同程度“青年收容计划”的犯罪未成年人，并记录其获释后一年内因再次犯罪被抓的频率。其中，接受非强制收容计划（Non-residential）的犯罪未成年的再犯率远远低于他人。
 
 <p align="center">
-	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png2.png" width="450">
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png01.png" width="450">
 </p>
 
 就算是同一级别的收容制度，重犯率也和收容时间长短相关。上述报告显示，同样是最高级别的强制收容计划，重犯率随着收容时间的增加而增加。
 
 <p align="center">
-	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png1.png" width="450">
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png02.png" width="450">
 </p>
 
 究其成因，部分研究显示，未成年犯的年龄较小，心智尚未发展成熟，自身易感性强。对未成年犯适用送进监狱或者长期安置在收容教养所内，容易导致未成年犯在监所相互影响，接触不正确的价值观，接触更多的犯罪手段和渠道，从而促使这类群体的重新犯罪率较高。
@@ -74,6 +74,7 @@
 * 但我实在是能力太差（干啥啥不行当:pig:第一名），搜索境外资料的时候因为自己英文没有那么顺溜，看到头晕眼花也没有找到近五年的数据。（其实找到了一些，但是切入的角度并不那么好，而且是各州自己的数据，并不是全国范围内的）无奈最后用了一份**2002年的报告**。
 * **2002年啊！！！就比我小三岁！！！这真是莫大的耻辱。**:rage:
 * 而国内的官方数据，我找到了每一年未成年人犯罪占所有犯罪的比率和未成年犯的数量，另外的数据要么就残破不全，要么就统计样本极其小。
+* 以及，我还托同学找**人大的刑法教授**问问，看看有没有他们自己内部统计的数据。但是他们周四才有刑法课:ideograph_advantage:
 * （这让我更加急不可待地看看大家的作业，都是怎么八仙过海各显神通，用的什么数据啊:sob:）
 
 ### 内容呈现
@@ -81,7 +82,7 @@
 * 这一次的操作流程和上次不太一样。这一次先确定了整个文章的框架：“是什么-为什么-怎么办”；
 * 然后，一边梳理手头现有的资料，一边把可用的信息摘取成文字或者整理成excel表格。
 * 接着，对照着文章框架，把文字材料组成稿件。用datawrapper把数据做成可视化的图。最后统一上github。
-* 本来，我想的是把datawrapper的代码直接嵌套进来，没想到readme不支持。好吧，我真的不是不想标注数据，实在是条件不允许啊！
+* 本来，我想的是把datawrapper的代码直接嵌套进来，没想到readme不支持。好吧，错失交互良机。:cry:
 
 </details>
 
@@ -90,13 +91,21 @@
 <summary>Part3：信源链接</summary>
  
 ### 网页类
-1. [Florida Department of Juvenile Justice （DJJ）](http://www.djj.state.fl.us/programs-facilities/restrictiveness-levels)
-2. [PointPark University:“Juvenile Recidivism: A Second Chance”](https://online.pointpark.edu/criminal-justice/juvenile-recidivism/)
-3. [MST：Do we know the full extent of Juvenile Recidivism?](http://info.mstservices.com/blog/juvenile-recidivism-rates)
-4. [NCJRS：National Criminal Justice Reference Service](https://www.ncjrs.gov/App/Topics/Topic.aspx?TopicID=122)
-5. [NBER:"Schools, Neighborhoods, and the Long-Run Effect of Crime-Prone Peers“](https://www.nber.org/papers/w25730)
-6. [OJJDP（Office of Juvenile Justice and Delinquency Prevention)](ojjdp.gov/ojstatbb/crime/JAR.asp)
+* [Florida Department of Juvenile Justice （DJJ）](http://www.djj.state.fl.us/programs-facilities/restrictiveness-levels)
+* [PointPark University:“Juvenile Recidivism: A Second Chance”](https://online.pointpark.edu/criminal-justice/juvenile-recidivism/)
+* [MST：Do we know the full extent of Juvenile Recidivism?](http://info.mstservices.com/blog/juvenile-recidivism-rates)
+* [NCJRS：National Criminal Justice Reference Service](https://www.ncjrs.gov/App/Topics/Topic.aspx?TopicID=122)
+* [NBER:"Schools, Neighborhoods, and the Long-Run Effect of Crime-Prone Peers“](https://www.nber.org/papers/w25730)
+* [OJJDP（Office of Juvenile Justice and Delinquency Prevention)](ojjdp.gov/ojstatbb/crime/JAR.asp)
 ### 论文/报告类
+#### 英文文献
+* ![Juvenile Recidivism and Length of Stay (NCJRS)](https://pan.baidu.com/s/1W4_mbaV1phh3mdrMdktRNw)
+* ![JUVENILE INCARCERATION, HUMAN CAPITAL AND FUTURE CRIME:
+EVIDENCE FROM RANDOMLY-ASSIGNED JUDGES (NBER)](https://pan.baidu.com/s/1_T8ydYKv6Qvut0U2VJocxw)
+* ![JUVENILE RECIDIVISM 2018](https://pan.baidu.com/s/1sGV-LxkEgeWfkBvcGHP_tQ)
+* ![NO PLACE FOR KIDS:The Case for Reducing Juvenile Incarceration](https://pan.baidu.com/s/1wrr5H3yCiCZuPAt97arC3w)
+* ![The Effectiveness of Various Restorative Justice Interventions on Recidivism Outcomes Among Juvenile Offenders](https://pan.baidu.com/s/1CzCH-cNJX103TZHiLsCLYA)
+
 
 
 
