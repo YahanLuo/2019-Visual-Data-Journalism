@@ -61,7 +61,7 @@
   * 但根据联合国颁布的《儿童权利公约》规定，"任何儿童不受酷刑或其他形式的残忍、不人道或有辱人格的待遇和处罚。
   * "《联合国人权公约》以及《联合国少年司法最低限度标准规则》也明确规定：未成年人不得适用死刑。
   * 而蔡某某家的门外，明明白白挂着横幅，“杀人偿命”。:no_mouth:
-  * 推导到最后，这变成了一个哲学问题：“一个对他人施与‘酷刑或其他形式的残忍、不人道或有辱人格的待遇’，甚至剥夺了他人生命的儿童，是否应该遭受同样的惩罚？” 而我并不认为，一篇新闻报道应该把最后落脚点放在“性本善/性本恶”这样的论调上。:no_good:
+  * 推导到最后，这变成了一个`哲学问题`：“一个对他人施与‘酷刑或其他形式的残忍、不人道或有辱人格的待遇’，甚至剥夺了他人生命的儿童，是否应该遭受同样的惩罚？” 而我并不认为，一篇新闻报道应该把最后落脚点放在“性本善/性本恶”这样的论调上。:no_good:
   
 * 因此，我希望能从**再犯率**这个更加务实的角度来解析青少年犯罪：
   * 我想证明的观点**“把未成年人关入监狱并不是降低少年再犯率的最好途径“**。
@@ -72,8 +72,8 @@
 
 * 兜兜转转选好了题，我发现自己给自己挖了一个超级大的坑————**再次犯罪非常不好统计**。因为未成年犯出狱之后，很有可能改名字换定居点远走他乡，这无疑给数据收集增加了难度。别说中国了，美国的数据也不是每一个州都具备，还有许多报告已经过去十几年甚至二十年。
 * 但我实在是能力太差（干啥啥不行当:pig:第一名），搜索境外资料的时候因为自己英文没有那么顺溜，看到头晕眼花也没有找到近五年的数据。（其实找到了一些，但是切入的角度并不那么好，而且是各州自己的数据，并不是全国范围内的）无奈最后用了一份**2002年的报告**。
-* **2002年啊！！！就比我小三岁！！！这真是莫大的耻辱。**:rage:
-* 而国内的官方数据，我找到了每一年未成年人犯罪占所有犯罪的比率和未成年犯的数量，另外的数据要么就残破不全，要么就统计样本极其小。
+* **2002年啊！！！就比我小三岁！！！真是莫大的耻辱。**:rage:
+* 而国内的官方数据，我找到了每一年未成年人犯罪占所有犯罪的比率和未成年犯的数量。还有[两份司法大数据的报告](https://pan.baidu.com/s/12BobuyJVbg6ocg7Yb0Th2A)。另外的数据要么就残破不全，要么就统计样本极其小。
 * 以及，我还托同学找**人大的刑法教授**问问，看看有没有他们自己内部统计的数据。但是他们周四才有刑法课:ideograph_advantage:
 * （这让我更加急不可待地看看大家的作业，都是怎么八仙过海各显神通，用的什么数据啊:sob:）
 
@@ -98,17 +98,24 @@
 * [NBER:"Schools, Neighborhoods, and the Long-Run Effect of Crime-Prone Peers“](https://www.nber.org/papers/w25730)
 * [OJJDP（Office of Juvenile Justice and Delinquency Prevention)](ojjdp.gov/ojstatbb/crime/JAR.asp)
 ### 论文/报告类
-#### 英文文献
-* ![Juvenile Recidivism and Length of Stay (NCJRS)](https://pan.baidu.com/s/1W4_mbaV1phh3mdrMdktRNw)
-* ![JUVENILE INCARCERATION, HUMAN CAPITAL AND FUTURE CRIME:
+#### 英文
+* [Juvenile Recidivism and Length of Stay (NCJRS)](https://pan.baidu.com/s/1W4_mbaV1phh3mdrMdktRNw)
+* [JUVENILE INCARCERATION, HUMAN CAPITAL AND FUTURE CRIME:
 EVIDENCE FROM RANDOMLY-ASSIGNED JUDGES (NBER)](https://pan.baidu.com/s/1_T8ydYKv6Qvut0U2VJocxw)
-* ![JUVENILE RECIDIVISM 2018](https://pan.baidu.com/s/1sGV-LxkEgeWfkBvcGHP_tQ)
-* ![NO PLACE FOR KIDS:The Case for Reducing Juvenile Incarceration](https://pan.baidu.com/s/1wrr5H3yCiCZuPAt97arC3w)
-* ![The Effectiveness of Various Restorative Justice Interventions on Recidivism Outcomes Among Juvenile Offenders](https://pan.baidu.com/s/1CzCH-cNJX103TZHiLsCLYA)
-
-
-
-
+* [JUVENILE RECIDIVISM 2018](https://pan.baidu.com/s/1sGV-LxkEgeWfkBvcGHP_tQ)
+* [NO PLACE FOR KIDS:The Case for Reducing Juvenile Incarceration](https://pan.baidu.com/s/1wrr5H3yCiCZuPAt97arC3w)
+* [The Effectiveness of Various Restorative Justice Interventions on Recidivism Outcomes Among Juvenile Offenders](https://pan.baidu.com/s/1CzCH-cNJX103TZHiLsCLYA)
+* [Massachusetts Department of Youth Services Juvenile Recidivism Report For Youth Discharged During 2012 ](https://pan.baidu.com/s/1UeFlTAK5B29UolcbsUfm8g)
+### 中文
+* [未满14周岁未成年人涉严重危害社会行为干预措施研究_汪丽娜](https://pan.baidu.com/s/1U_FJfcgqB4fqPm44ruSSew)
+* [我国少年司法非刑罚处置制度研究_李翠红](https://pan.baidu.com/s/1tGKB3AySUnXfzLhiHtOjgw)
+* [来沪未成年人重新犯罪成因分析及其预防体系构建_陈赛金](https://pan.baidu.com/s/11oCJOjpPwnOx76AO26kgpQ)
+* [吉林省青少年重新犯罪的原因及对策的研究_袁承为](https://pan.baidu.com/s/13FwPM3XBAio1Xtf12YNW9w)
+* [国外重新犯罪调查研究与借鉴_周勇](https://pan.baidu.com/s/1gKX2dO--hsMdqO9zqVmidQ)
+* [域外未成年人刑事责任年龄制度_重庆市第三中级人民法院__蓝晓](https://pan.baidu.com/s/1_oPMeu3C7m2mjqZ-83UStw)
+* [关于降低未成年人再犯率问题的法律思考_张家铭](https://pan.baidu.com/s/1PwWGrSfM__QlZ6zSGJblAw)
+* [青少年社区矫正与预防重新犯罪研究_林洁](https://pan.baidu.com/s/1uanTSPu6uRx7smeWQIUaGA)
+* [构建未成年人犯罪的法律反应机制_国家检察官学院教授__沈海平](https://pan.baidu.com/s/1GKBMwQX-olVE3Rm_3NV-pg)
 
 
 </details>
