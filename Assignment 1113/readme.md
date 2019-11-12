@@ -1,4 +1,3 @@
-
 # Yahan Luo 1113 Assignment
 <details>
 <summary>Part 1：图文呈现 </summary>
@@ -20,13 +19,13 @@
 **其次，重犯率和不同性质的收容所相关。** 美国NCJRS（National Criminal Justice Reference Service）发布的一份公开报告中显示，他们调查了佛罗里达州16779 名曾接受过2年不同程度“青年收容计划”的犯罪未成年人，并记录其获释后一年内因再次犯罪被抓的频率。其中，接受非强制收容计划（Non-residential）的犯罪未成年的再犯率远远低于他人。
 
 <p align="center">
- <iframe src="//datawrapper.dwcdn.net/67k77/0/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="600" height="434"></iframe>
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png2.png" width="450">
 </p>
 
 就算是同一级别的收容制度，重犯率也和收容时间长短相关。上述报告显示，同样是最高级别的强制收容计划，重犯率随着收容时间的增加而增加。
 
 <p align="center">
- <iframe src="//datawrapper.dwcdn.net/lRgUj/0/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="709" height="297"></iframe>
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201113/png1.png" width="450">
 </p>
 
 究其成因，部分研究显示，未成年犯的年龄较小，心智尚未发展成熟，自身易感性强。对未成年犯适用送进监狱或者长期安置在收容教养所内，容易导致未成年犯在监所相互影响，接触不正确的价值观，接触更多的犯罪手段和渠道，从而促使这类群体的重新犯罪率较高。
@@ -55,7 +54,7 @@
   * 毕竟所有关于这个新闻由头的讨论中，最受争议的就是这一点。大家呼吁的原因不外乎时代改变了，现在的小孩已经不比当年。
   * 我开始也觉得应该下调，直到我反应过来，就算是无限次下调，总有“小恶魔”在最低刑事责任年龄的下面一点，从而逃过法律的制裁。
   * 况且，并不是13岁的犯罪未成年格外多，而是犯罪未成年的数量随着年龄的增长成正比；底线划在14岁，13岁就是最多的；底线划到12岁，11岁就是最多的。
-  * 按照这个逻辑，推到尽头就是取消最低刑事责任年龄。:arrow_lower_left:
+  * 按照这个逻辑，推到尽头就是取消最低刑事责任年龄。
   
 * 可是，**取消最低刑事责任年龄**之后又应该怎么办呢？
   * 依照成年人的刑法去判处吗？如果大连少年蔡某某是一个成年人，其行为多半将会面临死刑的处决。
@@ -73,7 +72,7 @@
 
 * 说起来这个资料收集我也是一把辛酸泪。兜兜转转选好了题，我发现自己给自己挖了一个超级大的坑————**再次犯罪非常不好统计**。因为未成年犯出狱之后，很有可能改名字换定居点远走他乡，这无疑给数据收集增加了难度。别说中国了，美国的数据也不是每一个州都具备，还有许多报告已经过去十几年甚至二十年。
 * 但我实在是能力太差（干啥啥不行当:pig:第一名），搜索境外资料的时候因为自己英文没有那么顺溜，看到头晕眼花也没有找到近五年的数据。（其实找到了一些，但是切入的角度并不那么好，而且是各州自己的数据，并不是全国范围内的）无奈最后用了一份**2002年的报告**。
-* **2002年啊！！！就比我大三岁！！！这真是莫大的耻辱。**:rage:
+* **2002年啊！！！就比我小三岁！！！这真是莫大的耻辱。**:rage:
 * 而国内的官方数据，我找到了每一年未成年人犯罪占所有犯罪的比率和未成年犯的数量，另外的数据要么就残破不全，要么就统计样本极其小。
 * （这让我更加急不可待地看看大家的作业，都是怎么八仙过海各显神通，用的什么数据啊:sob:）
 
@@ -81,14 +80,23 @@
 * **首先，我用的是“重犯/再犯“，而没有用“累犯"。** 这是因为“2011年5月1日正式生效的《刑法修正案（八）》对一般累犯的构成要件作出重大修改，将一般累犯排除在未成年人次犯罪需予以法定从重处罚的情节之外，确立未成年人不构成累犯原则。”
 * 这一次的操作流程和上次不太一样。这一次先确定了整个文章的框架：“是什么-为什么-怎么办”；
 * 然后，一边梳理手头现有的资料，一边把可用的信息摘取成文字或者整理成excel表格。
-* 接着，对照着文章框架，把文字材料组成稿件。用datawrapper把数据做成可视化的图。最后统一上
-
+* 接着，对照着文章框架，把文字材料组成稿件。用datawrapper把数据做成可视化的图。最后统一上github。
+* 本来，我想的是把datawrapper的代码直接嵌套进来，没想到readme不支持。好吧，我真的不是不想标注数据，实在是条件不允许啊！
 
 </details>
 
 
 <details>
 <summary>Part3：信源链接</summary>
+ 
+### 网页类
+1. [Florida Department of Juvenile Justice （DJJ）](http://www.djj.state.fl.us/programs-facilities/restrictiveness-levels)
+2. [PointPark University:“Juvenile Recidivism: A Second Chance”](https://online.pointpark.edu/criminal-justice/juvenile-recidivism/)
+3. [MST：Do we know the full extent of Juvenile Recidivism?](http://info.mstservices.com/blog/juvenile-recidivism-rates)
+4. [NCJRS：National Criminal Justice Reference Service](https://www.ncjrs.gov/App/Topics/Topic.aspx?TopicID=122)
+5. [NBER:"Schools, Neighborhoods, and the Long-Run Effect of Crime-Prone Peers“](https://www.nber.org/papers/w25730)
+6. [OJJDP（Office of Juvenile Justice and Delinquency Prevention)](ojjdp.gov/ojstatbb/crime/JAR.asp)
+### 论文/报告类
 
 
 
