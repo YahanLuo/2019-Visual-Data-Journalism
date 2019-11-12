@@ -5,7 +5,7 @@
 
 ## 把未成年犯关进监狱，真的是最好的选择吗？
 
-10月24日，杀害10岁女孩的大连少年蔡某某被依法判处收容教养，为期3年。消息一出，立刻有人在网络上表示该惩罚太轻，认为三年教养之后蔡某某尚未满18岁，应该延长其收容教养的时间，或将其直接收押进监狱。
+10月24日，杀害10岁女孩的大连少年蔡某某被依法判处收容教养，为期3年。消息一出，立刻有人在网络上表示该惩罚太轻，认为三年教养之后，蔡某某尚未满18岁，仍有再犯的可能；应该延长其收容教养的时间，或将其直接收押进监狱。
 
 然而，从数据上来看，**把犯罪未成年人关进监狱并不能带来重犯率的降低；收容时间越长，重犯率甚至可能会越高。**
 
@@ -20,16 +20,14 @@
 **其次，重犯率和不同性质的收容所相关。**在美国，这一规律显得更为明晰。NCJRS（National Criminal Justice Reference Service）发布的一份公开报告中显示，他们调查了佛罗里达州16779 名曾接受过2年不同程度“青年收容计划”的犯罪未成年人，并记录其获释后一年内因再次犯罪被抓的频率。其中，接受非强制收容计划（Non-residential）的犯罪未成年的再犯率远远低于他人。
 
 <p align="center">
- <iframe 
-           src="//datawrapper.dwcdn.net/67k77/0/" 
-           frameborder="0" 
-           allowtransparency="true" 
-           allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen
-           width="600" 
-           height="434"> </iframe>
+ <iframe src="//datawrapper.dwcdn.net/67k77/0/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="600" height="434"></iframe>
 </p>
 
 就算是同一级别的收容制度，重犯率也和收容时间长短相关。上述报告显示，同样是最高级别的强制收容计划，重犯率随着收容时间的增加而增加。
+
+<p align="center">
+ <iframe src="//datawrapper.dwcdn.net/lRgUj/0/" frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen width="709" height="297"></iframe>
+</p>
 
 究其成因，部分研究显示，未成年犯的年龄较小，心智尚未发展成熟，自身易感性强。对未成年犯适用送进监狱或者长期安置在收容教养所内，容易导致未成年犯在监所相互影响，接触不正确的价值观，接触更多的犯罪手段和渠道，从而促使这类群体的重新犯罪率较高。
 
@@ -81,6 +79,7 @@
 * （这让我更加急不可待地看看大家的作业，都是怎么八仙过海各显神通，用的什么数据啊:sob:）
 
 ### 内容呈现
+* **首先，我用的是“重犯/再犯“，而没有用“累犯"。**这是因为“2011年5月1日正式生效的《刑法修正案（八）》对一般累犯的构成要件作出重大修改，将一般累犯排除在未成年人次犯罪需予以法定从重处罚的情节之外，确立未成年人不构成累犯原则。”
 
 
 
