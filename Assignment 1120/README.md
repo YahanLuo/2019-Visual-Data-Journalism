@@ -28,28 +28,28 @@
 
 * **Game of Thrones**
 
-  1.[“Wind & Words”](http://beta.wind-and-words.com/)
+  1. [“Wind & Words”](http://beta.wind-and-words.com/)
   
     * 分析对象：权游剧本中的台词;
     * 分析角度：四个板块——人物关系、剧集关键词、人物心情、剧集语言特点;
     * 呈现：分季切入；
     * 技术：可交互（不知道具体是啥）。
     
-  2.[网易数读：死亡](http://data.163.com/19/0506/11/EEG62I8S000181IU.html)
+  2. [网易数读：死亡](http://data.163.com/19/0506/11/EEG62I8S000181IU.html)
   
     * 分析对象：权游中330例人物死亡（数据来源于一篇发表在《伤害流行病学》上的人口学论文：“Death is certain, the time is not.”）
     * 分析角度：死了多少人，怎么死的，谁杀的，死在哪里......
     * 呈现：图文（排版长图，还蛮精致的） 
     * 技术：不可交互 （我可以！）
     
-  3.[Washington Post：Death](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/)
+  3. [Washington Post：Death](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/)
   
     * 分析对象：权游中6887例死亡（包括死马死狗鸽子等一切死亡）;
     * 分析角度：所在剧集，死亡细节，死亡地点，死亡地图；
     * 呈现：以每一集为数据库，用emoji来表示；
     * 技术：可交互（盲猜不出来）。
     
-  4.[NYT：“Good Evil Ugly Beautiful”](https://www.nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html)
+  4. [NYT：“Good Evil Ugly Beautiful”](https://www.nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html)
   
     * 分析对象：一次关于权游主要人物的大型民意调查；
     * 分析角度：如题所示，谁好看谁难看，谁坏谁好；
@@ -77,22 +77,18 @@
   * 呈现：搭建的人物关系网;
   * 技术：和漫威一样的。
 
-* **红楼梦**
-*(做的太好 是我不配)*
+* **红楼梦** *(做的太好 是我不配)*
+1. [一个开源的红楼梦人物关系可视化网络](https://zhuanlan.zhihu.com/p/44584551)
+  * 分析对象：红楼梦的原文和87版电视剧；
+  * 分析角度：人物介绍、人物关系、剧照、主要地点、主要情节事件；
+  * 呈现：搭建的人物关系网；
+  * 技术：在Github上公开了源代码。
 
- 1.[ 一个开源的红楼梦人物关系可视化网络](https://zhuanlan.zhihu.com/p/44584551)
-  
-    * 分析对象：红楼梦的原文和87版电视剧；
-    * 分析角度：人物介绍、人物关系、剧照、主要地点、主要情节事件；
-    * 呈现：搭建的人物关系网；
-    * 技术：在Github上公开了源代码。
-    
- 2. [DT财经](https://zhuanlan.zhihu.com/p/31291846)
-   
-    * 分析对象：红楼梦的原文；
-    * 分析角度：文本分析（词频分析、影响因素）；
-    * 呈现：图文（软件直接生成）；
-    * 技术：盲猜Python。
+2. [DT财经](https://zhuanlan.zhihu.com/p/31291846)
+  * 分析对象：红楼梦的原文；
+  * 分析角度：文本分析（词频分析、影响因素）；
+  * 呈现：图文（软件直接生成）；
+  * 技术：盲猜Python。
     
 </details>
 
