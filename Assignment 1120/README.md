@@ -27,60 +27,73 @@
   * 技术：可交互（盲猜D3）。
 
 * [**Game of Thrones**]
+
   1.[“Wind & Words”](http://beta.wind-and-words.com/)
+  
     * 分析对象：权游剧本中的台词;
     * 分析角度：四个板块——人物关系、剧集关键词、人物心情、剧集语言特点;
     * 呈现：分季切入；
     * 技术：可交互（不知道具体是啥）。
-  2.[网易数读](http://data.163.com/19/0506/11/EEG62I8S000181IU.html)
+    
+  2.[网易数读：死亡](http://data.163.com/19/0506/11/EEG62I8S000181IU.html)
+  
     * 分析对象：权游中330例人物死亡（数据来源于一篇发表在《伤害流行病学》上的人口学论文：“Death is certain, the time is not.”）
     * 分析角度：死了多少人，怎么死的，谁杀的，死在哪里......
     * 呈现：图文（排版长图，还蛮精致的） 
     * 技术：不可交互 （我可以！）
-  3.[Washington Post](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/)
+    
+  3.[Washington Post：Death](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/)
+  
     * 分析对象：权游中6887例死亡（包括死马死狗鸽子等一切死亡）;
     * 分析角度：所在剧集，死亡细节，死亡地点，死亡地图；
     * 呈现：以每一集为数据库，用emoji来表示；
     * 技术：可交互（盲猜不出来）。
+    
   4.[NYT：“Good Evil Ugly Beautiful”](https://www.nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html)
+  
     * 分析对象：一次关于权游主要人物的大型民意调查；
     * 分析角度：如题所示，谁好看谁难看，谁坏谁好；
     * 呈现：一张坐标轴表；
     * 技术：可交互（盲猜python）。
     
 * [**漫威宇宙：“The Straight Times”**](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
+
   * 分析对象：漫威电影集;
   * 分析角度：人物身份、关系、扮演者;
   * 呈现：搭建人物关系网;
   * 技术：可交互，太难了，不可能。
 
-百变小樱：“Card captor Sakura”
-http://www.datasketch.es/june/code/nadieh/
-分析对象：动画 共50集
-分析角度：每一集的特点、封面配色、每一集包含的主要人物、人物间的关系
-呈现：一个层层嵌套的弦图
-技术：可交互（看起来不算难）
+* [**百变小樱：“Card captor Sakura”**](http://www.datasketch.es/june/code/nadieh/)
 
-Star Wars：（DT财经）
-http://assets.dtcj.com/visualization/star_war/index.html
-分析对象：星球大战电影集
-分析角度：人物身份、关系、星球、交通工具（好魔性啊）
-呈现：搭建的人物关系网
-技术：和漫威一样的
+  * 分析对象：动画,共50集;
+  * 分析角度：每一集的特点、封面配色、每一集包含的主要人物、人物间的关系;
+  * 呈现：一个层层嵌套的弦图;
+  * 技术：可交互（看起来不算难）。
 
-红楼梦：做的太好 是我不配
-1. 一个开源的网站：
-https://zhuanlan.zhihu.com/p/44584551
-分析对象：红楼梦的原文和87版电视剧
-分析角度：人物介绍、人物关系、剧照、主要地点、主要情节事件
-呈现：搭建的人物关系网
-技术：在Github上公开了源代码
-2. DT财经：
-https://zhuanlan.zhihu.com/p/31291846
-分析对象：红楼梦的原文
-分析角度：文本分析（词频分析、影响因素）
-呈现：图文（软件直接生成）
-技术：盲猜Python
+* [**Star Wars：DT财经**](http://assets.dtcj.com/visualization/star_war/index.html)
+
+  * 分析对象：星球大战电影集;
+  * 分析角度：人物身份、关系、星球、交通工具（好魔性啊）;
+  * 呈现：搭建的人物关系网;
+  * 技术：和漫威一样的。
+
+* **红楼梦**
+*(做的太好 是我不配)*
+
+  1.[ 一个开源的红楼梦人物关系可视化网络](https://zhuanlan.zhihu.com/p/44584551)
+  
+    * 分析对象：红楼梦的原文和87版电视剧；
+    * 分析角度：人物介绍、人物关系、剧照、主要地点、主要情节事件；
+    * 呈现：搭建的人物关系网；
+    * 技术：在Github上公开了源代码。
+    
+   2. [DT财经](https://zhuanlan.zhihu.com/p/31291846)
+   
+    * 分析对象：红楼梦的原文；
+    * 分析角度：文本分析（词频分析、影响因素）；
+    * 呈现：图文（软件直接生成）；
+    * 技术：盲猜Python。
+    
 </details>
 
   
