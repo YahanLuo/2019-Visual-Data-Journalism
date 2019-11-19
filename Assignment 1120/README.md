@@ -26,7 +26,7 @@
   * 呈现： 一个唱段就是一个点，以点的变化展现规律；
   * 技术：可交互（盲猜D3）。
 
-* [**Game of Thrones**]
+* **Game of Thrones**
 
   1.[“Wind & Words”](http://beta.wind-and-words.com/)
   
@@ -87,7 +87,7 @@
     * 呈现：搭建的人物关系网；
     * 技术：在Github上公开了源代码。
     
-   2. [DT财经](https://zhuanlan.zhihu.com/p/31291846)
+  2. [DT财经](https://zhuanlan.zhihu.com/p/31291846)
    
     * 分析对象：红楼梦的原文；
     * 分析角度：文本分析（词频分析、影响因素）；
