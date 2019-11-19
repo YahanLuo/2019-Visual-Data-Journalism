@@ -11,8 +11,8 @@
   * 最后，到底为什么要做呢？一本书可以直接阅读。做一本书的可视化，不就是为了可视化而可视化吗？
 * 针对最后一个问题，我甚至有点膨胀。**在将来，可视化会不会变成一种新的艺术形式？** 类似于视觉小说那样，以网页为基础，综合各种媒体形式（文图表音视频），游走于电影、游戏的边缘，将信息的理解难度降低。
 * 扯远了。
-* 无论如何，先定下来这个题了。不是万事万物都要有用的，能在一个允许无用的场合正大光明无用一下，太奢侈了。
-* 具体做哪本书还没有确定，现在比较想做的**《All the light we cannot see》**。原因是太喜欢这本书。
+* 无论如何，先定下来这个题了。在这个功能主义至上的年代，能在一个允许无用的场合正大光明无用一下，太奢侈了。
+* 具体做哪本书还没有确定，现在比较想做的 **《All the light we cannot see》** 。原因是太喜欢这本书。
 * 如果找不到好的切入点，肯定还要换。
 </details>
 
@@ -20,45 +20,39 @@
 <summary> Part 2：前期调研 </summary>
   
 ### 前期调研
-Hamilton :The Pudding 
-https://pudding.cool/2017/03/hamilton/
-分析对象： 唱段、台词
-分析角度： 以主角为线索、以人物关系为切入 、主题
-呈现 ： 一个唱段就是一个点
-技术： 可交互（盲猜D3）
+* [**Hamilton :The Pudding**](https://pudding.cool/2017/03/hamilton/)
+  * 分析对象：唱段、台词；
+  * 分析角度： 以主角为线索，以人物关系为切入，以主题为切入点；
+  * 呈现： 一个唱段就是一个点，以点的变化展现规律；
+  * 技术：可交互（盲猜D3）。
 
-Game of Thrones：
-1.“Wind & Words”
-http://beta.wind-and-words.com/
-分析对象：权游剧本中的台词
-分析角度：四个板块——人物关系、剧集关键词、人物心情、剧集语言特点
-呈现：以人物为中心
-技术：可交互——不知道
-2.网易数读
-http://data.163.com/19/0506/11/EEG62I8S000181IU.html
-分析对象：权游中330例人物死亡（数据来源于一篇发表在《伤害流行病学》上的人口学论文：“Death is certain, the time is not.”）
-分析角度：死了多少人，怎么死的，谁杀的，死在哪里......
-呈现：图文（排版长图，还蛮精致的） 
-技术：不可交互 （我可以！）
-3.Washington Post
-https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/
-分析对象：权游中6887例死亡（包括死马死狗鸽子）
-分析角度：所在剧集，死亡细节，死亡地点，死亡地图
-呈现：以每一集为数据库，用emoji来表示
-技术：可交互 （盲猜不出来）
-4.NYT：“Good Evil Ugly Beautiful”
-https://www.nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html
-分析对象：一次关于权游主要人物的大型民意调查
-分析角度：如题所示
-呈现：一张坐标轴表
-技术：可交互 盲猜python
+* [**Game of Thrones**]
+  1.[“Wind & Words”](http://beta.wind-and-words.com/)
+    * 分析对象：权游剧本中的台词;
+    * 分析角度：四个板块——人物关系、剧集关键词、人物心情、剧集语言特点;
+    * 呈现：分季切入；
+    * 技术：可交互（不知道具体是啥）。
+  2.[网易数读](http://data.163.com/19/0506/11/EEG62I8S000181IU.html)
+    * 分析对象：权游中330例人物死亡（数据来源于一篇发表在《伤害流行病学》上的人口学论文：“Death is certain, the time is not.”）
+    * 分析角度：死了多少人，怎么死的，谁杀的，死在哪里......
+    * 呈现：图文（排版长图，还蛮精致的） 
+    * 技术：不可交互 （我可以！）
+  3.[Washington Post](https://www.washingtonpost.com/graphics/entertainment/game-of-thrones/)
+    * 分析对象：权游中6887例死亡（包括死马死狗鸽子等一切死亡）;
+    * 分析角度：所在剧集，死亡细节，死亡地点，死亡地图；
+    * 呈现：以每一集为数据库，用emoji来表示；
+    * 技术：可交互（盲猜不出来）。
+  4.[NYT：“Good Evil Ugly Beautiful”](https://www.nytimes.com/interactive/2017/08/09/upshot/game-of-thrones-chart.html)
+    * 分析对象：一次关于权游主要人物的大型民意调查；
+    * 分析角度：如题所示，谁好看谁难看，谁坏谁好；
+    * 呈现：一张坐标轴表；
+    * 技术：可交互（盲猜python）。
     
-漫威宇宙：“The Straight Times”
-https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html
-分析对象：漫威电影集
-分析角度：人物身份、关系、扮演者
-呈现：搭建人物关系网
-技术：可交互，太难了，不可能
+* [**漫威宇宙：“The Straight Times”**](https://graphics.straitstimes.com/STI/STIMEDIA/Interactives/2018/04/marvel-cinematic-universe-whos-who-interactive/index.html)
+  * 分析对象：漫威电影集;
+  * 分析角度：人物身份、关系、扮演者;
+  * 呈现：搭建人物关系网;
+  * 技术：可交互，太难了，不可能。
 
 百变小樱：“Card captor Sakura”
 http://www.datasketch.es/june/code/nadieh/
