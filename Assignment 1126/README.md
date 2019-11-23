@@ -4,11 +4,11 @@
 
 ### 原图
 <p align="center">
-	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201029/pic1final.png" width="200"></p>
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201029/pic1final.png" width="450"></p>
 
 ### ggplot图
 <p align="center">
-	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201126/plastic_ggplot.png"width="300"></p>
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201126/plastic_ggplot.png"width="600"></p>
 
 ### 代码
 	> library(readxl)
@@ -34,6 +34,8 @@
 </p>
 
 ### ggplot图
+<p align="center">
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201126/crime_ggplot.jpg"width="700"></p>
 
 
 ### 代码
