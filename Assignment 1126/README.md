@@ -8,7 +8,7 @@
 
 ### ggplot图
 <p align="center">
-	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201126/plastic_ggplot.png"width="600"></p>
+	<img src="https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201126/plastic_ggplot.jpg" width="600"></p>
 
 ### 代码
 	> library(readxl)
