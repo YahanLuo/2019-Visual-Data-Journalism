@@ -4,11 +4,17 @@
   
 ### 选题方向
 * 成品链接在此处！[请戳这里](https://readymag.com/u25494332/allthelightwecannotsee/)
-* 一些小小的tip
-  * 请使用Chrome浏览器！请使用Chrome浏览器！请使用Chrome浏览器！
-  * 缩放比例在90%到110%为佳。
+* 一些小小的tip：
+  * https://readymag.com/u25494332/allthelightwecannotsee/
+  * **请使用Chrome浏览器！请使用Chrome浏览器！请使用Chrome浏览器！**
   * 加载速度太慢。希望可以等待一下呜呜呜呜。（其实也似乎只能等待？）
-  * 
+  * **有VPN的请麻烦挂一个VPN**，站点在国外。
+  * 缩放比例在90%到110%为佳。
+  * 大部分图像有交互，上下滑滑，随便点点？
+  
+</details>
+  
+ 
 
 
   
