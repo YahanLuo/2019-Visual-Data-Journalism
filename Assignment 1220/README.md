@@ -24,14 +24,15 @@
 
 ### 资料收集
 
-  1.**初级文本分析** （12月1日~12月5日）
-    * 既然是做文本分析，那么文本自然是第一步。所以我的大部分资料都是围绕《所有我们看不见的光》（后简称《光》）这本书的中英文原著的文本在进行
-    * 首先，我找不到纯英文版本的《光》。于是我用八爪鱼爬取了一个在线阅读的界面，把英文原文给copy了下来。将其导出成word。
-    * 其次，我把里面所有的标点都去除，只留下干净的单词，导出成TXT。
-    * 我最开始是企图做词频，使用了一种粗暴野蛮的方法————把txt导入在线词频网站，直接统计。
-    * 但这样的问题在于，无意义的小词是最多的。比如"it","that","the"。
-    * 而且，不同的网站居然结果还不一样！请看[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency.xlsx)，和[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency02.xlsx)。真的不一样。
-    * 他喵了个咪的，这怎么能忍。
+ 1.**初级文本分析** （12月1日~12月5日）
+ 
+   * 既然是做文本分析，那么文本自然是第一步。所以我的大部分资料都是围绕《所有我们看不见的光》（后简称《光》）这本书的中英文原著的文本在进行
+   * 首先，我找不到纯英文版本的《光》。于是我用八爪鱼爬取了一个在线阅读的界面，把英文原文给copy了下来。将其导出成word。
+   * 其次，我把里面所有的标点都去除，只留下干净的单词，导出成TXT。
+   * 我最开始是企图做词频，使用了一种粗暴野蛮的方法————把txt导入在线词频网站，直接统计。
+   * 但这样的问题在于，无意义的小词是最多的。比如"it","that","the"。
+   * 而且，不同的网站居然结果还不一样！请看[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency.xlsx)，和[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency02.xlsx)。真的不一样。
+   * 他喵了个咪的，这怎么能忍。
   
  2. **中级文本分析**（12月6日~12月7日）
  
