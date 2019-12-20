@@ -3,7 +3,9 @@
 <summary> Part 1：成品链接 </summary>
   
 ### 成品链接
+
 * 成品链接在此处！[请戳这里](https://readymag.com/u25494332/allthelightwecannotsee/)
+
 * 一些小小的tip：
   * https://readymag.com/u25494332/allthelightwecannotsee/
   * **请使用Chrome浏览器！请使用Chrome浏览器！请使用Chrome浏览器！**
@@ -14,16 +16,21 @@
   
 </details>
   
- <summary> Part2：成品链接 </summary>
+ <summary> Part2：过程描述 </summary>
+ 
 ### 选题想法
+
 这在我之前的md里面有，不再赘述。请戳[这里](https://github.com/YahanLuo/2019-Visual-Data-Journalism/tree/master/Assignment%201120)还有[这里](https://github.com/YahanLuo/2019-Visual-Data-Journalism/tree/master/Assignment%201126)。
 
 ### 资料收集
-* **11月26日~12月5日**
-* 既然是做文本分析，那么文本自然是第一步。所以我的大部分资料都是围绕《所有我们看不见的光》（后简称《光》）这本书的中英文原著的文本在进行
-  1. 首先，我找不到纯英文版本的《光》。于是我用八爪鱼爬取了一个在线阅读的界面，把英文原文给copy了下来。将其导出成word。
-  2. 其次，我把里面所有的标点都去除，只留下干净的单词，导出成TXT。
-  3. 我最开始是企图做词频
+
+**11月26日~12月5日**
+
+1.**文本分析阶段**
+  * 既然是做文本分析，那么文本自然是第一步。所以我的大部分资料都是围绕《所有我们看不见的光》（后简称《光》）这本书的中英文原著的文本在进行
+  * 首先，我找不到纯英文版本的《光》。于是我用八爪鱼爬取了一个在线阅读的界面，把英文原文给copy了下来。将其导出成word。
+  * 其次，我把里面所有的标点都去除，只留下干净的单词，导出成TXT。
+  * 我最开始是企图做词频
 
 
 
