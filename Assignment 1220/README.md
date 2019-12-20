@@ -17,7 +17,7 @@
 </details>
 
  <details>
- <summary> Part2：过程描述 </summary>
+ <summary> Part 2：过程描述 </summary>
  
 ### 选题想法
 
@@ -125,7 +125,7 @@
 </details>
 
 <details>
-<summary> Part 3：用到的数据 </summary>
+<summary> Part 3 ：Reference </summary>
   
 
 </details>
