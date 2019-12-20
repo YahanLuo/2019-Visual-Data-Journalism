@@ -9,7 +9,7 @@
 * 一些小小的tip：
   * https://readymag.com/u25494332/allthelightwecannotsee/
   * **请使用Chrome浏览器！请使用Chrome浏览器！请使用Chrome浏览器！**
-  * **请挂VPN**，**请挂VPN**，**请挂VPN**。站点在国外，我也没办法。
+  * **如果打不开，请挂VPN**，**请挂VPN**，**请挂VPN**。站点在国外，我也没办法。
   * 加载速度太慢。希望可以等待一下呜呜呜呜。（其实也似乎只能等待？
   * 缩放比例在90%到110%为佳。
   * 大部分图像有交互，上下滑滑，随便点点？
@@ -30,7 +30,7 @@
   * 其次，我把里面所有的标点都去除，只留下干净的单词，导出成TXT。
   * 我最开始是企图做词频，使用了一种粗暴野蛮的方法————把txt导入在线词频网站，直接统计。
   * 但这样的问题在于，无意义的小词是最多的。比如"it","that","the"。
-  * 而且，不同的网站居然结果还不一样！请看[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency.xlsx)，和[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency02.xlsx)
+  * 而且，不同的网站居然结果还不一样！请看[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency.xlsx)，和[这个](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/wordfrequency02.xlsx)。真的不一样。
   * 他喵了个咪的，这怎么能忍。
   
  2. **中级文本分析**（12月6日~12月7日）
@@ -40,8 +40,10 @@
     * 但是我不是要数文章。这本书的特点是 **分小节** ————写一段情节，提取一下主要的内容，打个小节。
     * 于是，我整理出了每一小节的**所属章**，**年份**，**具体日期**，**中英文标题**，**主人公**，**标题词性**。
     * 经过艰苦卓越坐痛屁股的努力，我终于摊着两本纸质书，把它给整理完了。
+    * 戳[这里](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/All_the_light_title_final.xlsx)看我的**小节整理清单**.
     
  3. **初级可视化**（12月7日~12月8日）
+ 
     * 此时的我陷入困境，拿着这些数据又有什么用呢？
     * 此时我打开了我的老朋友Tableau（要我说Tableau真的是可视化的好朋友！操作简便，图形种类也比较多，是真的可以给手足无措的我打开新世界大门的。）
     * 但是Tableau也没能给予我灵感。（S**t）
@@ -50,7 +52,8 @@
     * 言归正传，我截了沃博雷尔街4号的街景，就退出来了。
     * 但这时，我福至心灵了————为什么不用**地理可视化**呢？这本书里面那么多真实的地名，完全可以在地图上找到。
     
-  4.**高级文本分析**（12月8日~12月15日）
+ 4. **高级文本分析**（12月8日~12月15日）
+  
     * 说干就干，我立刻着手整理了书中提到的所有**地名**，[戳这里看我的笔记](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/%E5%A4%87%E6%B3%A8%202019%E5%B9%B412%E6%9C%888%E6%97%A5.pdf)
     * 因为整理，我又通读了一遍文本，突然明白，有的**意象**是在反复反复反复出现的。其实之前我就有感觉，但是没想过要去整理它。
     * 我在页边上简单整理了一下我脑子里最先出现的几个意象，居然发现两条人物线的意象可以一一对应，代表恐惧的，代表勇气的，代表亲情的。
@@ -61,6 +64,18 @@
     * 基于我之前的小节名称的Excel，我很快整理出一份**人物出现的小节**数的清单，并基于这两份Excel，清理了**两个人同时出现在一小节**的情况。
     * 在这里，可能我就会受到一些质疑。为什么这个算意象但哪个不算？为什么这个算人物互动但那个不算？首先，意象这个东西真的还蛮玄学，我的确也不知道有的分类方法是否可行。所以接受diss。但两个人出现在同一小节的标准，我还是有的。即两个人必须产生某种程度上的互动，比如交谈，比如一个人想起了另一个人。
     * 戳[这里](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/images%20and%20relationship.xlsx)看我的整理清单（有三张表）。
+    
+  5. **内容框架确定**（12月8日~12月9日）
+  
+     * 其实这个时候我还没有开始整理意象和人名，但是看着逼近的ddl，我很着急。
+     * 晚上和王思涵一起讨论的时候，我才发现原来从图的角度来说，我已经有很多内容了。确定了要做意象图，要做人物关系图，要再做一个地理可视化。
+     * 以及我想把内容从书中引申出去，延展到现实的层面，让它意义更丰富。
+     * 也就是在这个时候，我确定了主题 **"All the light we cannot see : About the book, beyond the page"
+     * 为什么没有中文名字？很简单，我想不出来好听的。
+     * 就在8日晚上，我记得清清楚楚！我拿着ipad开始画mockup。**那可真的是，如有神助的一夜。**真的就是一口气就把mockup给顺下来了。感觉自己也满意。
+     * 戳[这里](https://github.com/YahanLuo/2019-Visual-Data-Journalism/blob/master/Assignment%201220/mockup%20for%20all%20the%20light.pdf)，看我(精美）的 mockup。
+  
+  6. **
     
     
 
