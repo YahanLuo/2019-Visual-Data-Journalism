@@ -126,29 +126,31 @@
 
 <details>
 <summary> Part 3：Reference </summary>
-  * [微信读书：《所有我们看不见的光》]（https://weread.qq.com/web/reader/f12329605c5526f12a64291kc81322c012c81e728d9d180）
+1. 文本信息
+  * [微信读书：《所有我们看不见的光》](https://weread.qq.com/web/reader/f12329605c5526f12a64291kc81322c012c81e728d9d180)
   * [Litcharts: All the Light We Cannot See](https://www.litcharts.com/lit/all-the-light-we-cannot-see)
-  
+2. 圣马洛的数据
   * [INSTITUTE FOR HISTORICAL REVIEW: The Burning of Saint Malo *by Philip Beck*](http://www.ihr.org/jhr/v02/v02p301_Beck.html)
   * [Saint Malo 官网Data.StMalo-Agglomération](https://data.stmalo-agglomeration.fr/explore/dataset/monuments-historiques-classes-a-saint-malo/table/?sort=date&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQ09VTlQiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjNjZjMmE1In1dLCJ4QXhpcyI6ImRhdGUiLCJtYXhwb2ludHMiOiIiLCJ0aW1lc2NhbGUiOiJ5ZWFyIiwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoibW9udW1lbnRzLWhpc3RvcmlxdWVzLWNsYXNzZXMtYS1zYWludC1tYWxvIiwib3B0aW9ucyI6eyJzb3J0IjoiZGF0ZSJ9fX1dLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D)
   * [The Battle of Saint-Malo in World War II](http://www.klangslattery.com/blog/entry/the-battle-of-saint-malo-in-world-war-ii)
-  * 
-  
+3. 图片 
   * [Saint-Malo-Rama: Saint-Malo en 1944, images d’une ville fantôme – partie 1](https://www.saint-malo-rama.com/2013/05/10/saint-malo-en-1944-images-dune-ville-fantome-partie-1.html)
   * [WW2: World War 2 Photo](https://ww2db.com/photo.php)
   * [Saint Malo Google Earth Image](https://earth.google.com/web/)
+4. 关于Napola的数据
+  * [Pforta](https://en.wikipedia.org/wiki/Pforta)
+  * [National Political Institutes of Education](https://en.wikipedia.org/wiki/National_Political_Institutes_of_Education)
   
-  
-  
+5. 字数统计工具
   * [Writer Words: Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
   * [Text Fixer: Online Word Counter for Text](https://www.textfixer.com/tools/online-word-counter.php#newText2)
   
-  
+6.其他参考资料
   * [WW2: World War 2 Statistics](http://www.world-war-2.info/statistics/)
   * [WW2: World War 2 Casualties](http://www.world-war-2.info/casualties/)
   * [WW2: World War 2 Documents And Letters](https://ww2db.com/photo.php?list=sp&sp=d&startRow=20&keyword=&source=&color=&foreigntype=&foreigntype_id=&dt=&image_id=)
   * [The Wiener Holocaust Library: The Holocaust Explained](https://www.theholocaustexplained.org/life-in-nazi-occupied-europe/oppression/disabled/)
-  * [United States Holocaust Memorial Library ]()
+
   
   
   
