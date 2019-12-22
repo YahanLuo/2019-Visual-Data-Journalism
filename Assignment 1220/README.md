@@ -127,6 +127,7 @@
 <details>
 <summary> Part 3：Reference </summary>
   
+  
 1. 文本信息
   
   * [微信读书：《所有我们看不见的光》](https://weread.qq.com/web/reader/f12329605c5526f12a64291kc81322c012c81e728d9d180)
@@ -156,13 +157,4 @@
   * [WW2: World War 2 Documents And Letters](https://ww2db.com/photo.php?list=sp&sp=d&startRow=20&keyword=&source=&color=&foreigntype=&foreigntype_id=&dt=&image_id=)
   * [The Wiener Holocaust Library: The Holocaust Explained](https://www.theholocaustexplained.org/life-in-nazi-occupied-europe/oppression/disabled/)
 
-  
-  
-  
-  
-
 </details>
-
-  
-  
- 
