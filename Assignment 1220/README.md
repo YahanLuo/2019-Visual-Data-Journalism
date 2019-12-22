@@ -127,7 +127,7 @@
 <details>
 <summary> Part 3：Reference </summary>
   
-  
+ ### 参考资料 
 1. 文本信息
   
   * [微信读书：《所有我们看不见的光》](https://weread.qq.com/web/reader/f12329605c5526f12a64291kc81322c012c81e728d9d180)
@@ -151,7 +151,7 @@
   * [Writer Words: Word Frequency Counter](http://www.writewords.org.uk/word_count.asp)
   * [Text Fixer: Online Word Counter for Text](https://www.textfixer.com/tools/online-word-counter.php#newText2)
   
-6.其他参考资料
+6. 其他参考资料
   * [WW2: World War 2 Statistics](http://www.world-war-2.info/statistics/)
   * [WW2: World War 2 Casualties](http://www.world-war-2.info/casualties/)
   * [WW2: World War 2 Documents And Letters](https://ww2db.com/photo.php?list=sp&sp=d&startRow=20&keyword=&source=&color=&foreigntype=&foreigntype_id=&dt=&image_id=)
